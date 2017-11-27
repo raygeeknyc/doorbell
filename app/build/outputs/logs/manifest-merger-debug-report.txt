@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:17:1-47:12
+	package
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:18:5-49
+		INJECTED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		INJECTED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:20:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/raymond/.android/build-cache/fdc37075a80fc3fa32198d5563cba57e2226d22a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:21:22-64
+uses-permission#com.google.android.things.permission.MANAGE_INPUT_DRIVERS
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:22:5-97
+	android:name
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:22:22-94
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:24:22-77
+application
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/raymond/.android/build-cache/a82e2a992503da77f17cabb13989d1a261094c0d/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/raymond/.android/build-cache/fdc37075a80fc3fa32198d5563cba57e2226d22a/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] /Users/raymond/.android/build-cache/33934a86c179a8917f5b4eaaf26fa9311b2b79fb/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] /Users/raymond/.android/build-cache/35ccec0c0a1d1ae18066323f7747b0f265ac691e/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] /Users/raymond/.android/build-cache/334f284e45796007df81facfdc49bd24fa3fc762/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/raymond/.android/build-cache/b59cbeaeb8b497fb92471db329bcdba457e57893/output/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.firebase:firebase-storage-common-license:11.4.2] /Users/raymond/.android/build-cache/d7e3e7df4f58c1c9477578f93a82f1c566ea6cd1/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common:11.4.2] /Users/raymond/.android/build-cache/d4b2d7c025e012992ead93d2c58ce9baa9079c99/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] /Users/raymond/.android/build-cache/a22a564fe0b9b9ea86aca7f39981349f5773222c/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /Users/raymond/.android/build-cache/6fb239eecc0e9df1c40e2d6614d20ed43eb36fe8/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /Users/raymond/.android/build-cache/60371d853c07f106e405ef2c7b1f36f311519a3b/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/raymond/.android/build-cache/d03f4d0467a64b54818430bceb29c4e1b31c82f8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/raymond/.android/build-cache/7e6f8424b8d9ee77a335fabf894a7524a284ff40/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/raymond/.android/build-cache/04e8cf8dc38917adc2c08933457e7c7bf6c90c7f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/raymond/.android/build-cache/e6a5d4b73791387c55555b4f76cdbb815527c6aa/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/raymond/.android/build-cache/5f1225a2eee78016de53f5cc273df2834db616f3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/raymond/.android/build-cache/8fa2273dd31bb86d86602a5f73a0ba6c939bc2d1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /Users/raymond/.android/build-cache/310781c38c44ee96ebbfdd889652909f586a11c5/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /Users/raymond/.android/build-cache/fad0578f594e1978df4a1b8f02218bf6ade05b01/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.4.2] /Users/raymond/.android/build-cache/a74b9cdcf7a6916e8a9c85dcbfc38485cdef008b/output/AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:28:9-58
+uses-library#com.google.android.things
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:31:9-65
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/raymond/.android/build-cache/b59cbeaeb8b497fb92471db329bcdba457e57893/output/AndroidManifest.xml:27:9-66
+	android:name
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:31:23-63
+activity#com.example.androidthings.doorbell.DoorbellActivity
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:33:9-45:20
+	android:name
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:33:19-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:36:27-74
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.IOT_LAUNCHER
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:40:13-44:29
+category#android.intent.category.IOT_LAUNCHER
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:42:17-80
+	android:name
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:42:27-78
+category#android.intent.category.DEFAULT
+ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:43:17-75
+	android:name
+		ADDED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml:43:27-73
+uses-sdk
+INJECTED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/raymond/.android/build-cache/a82e2a992503da77f17cabb13989d1a261094c0d/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/raymond/.android/build-cache/fdc37075a80fc3fa32198d5563cba57e2226d22a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] /Users/raymond/.android/build-cache/33934a86c179a8917f5b4eaaf26fa9311b2b79fb/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] /Users/raymond/.android/build-cache/35ccec0c0a1d1ae18066323f7747b0f265ac691e/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] /Users/raymond/.android/build-cache/334f284e45796007df81facfdc49bd24fa3fc762/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/raymond/.android/build-cache/b59cbeaeb8b497fb92471db329bcdba457e57893/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.firebase:firebase-storage:11.4.2] /Users/raymond/.android/build-cache/4fcbd92fdea1609d1cace55dac769d8dee49e499/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.4.2] /Users/raymond/.android/build-cache/eb271cfddf0e2895da9fbc0080486f8ee4875238/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.4.2] /Users/raymond/.android/build-cache/d7e3e7df4f58c1c9477578f93a82f1c566ea6cd1/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:11.4.2] /Users/raymond/.android/build-cache/d4b2d7c025e012992ead93d2c58ce9baa9079c99/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] /Users/raymond/.android/build-cache/a22a564fe0b9b9ea86aca7f39981349f5773222c/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /Users/raymond/.android/build-cache/6fb239eecc0e9df1c40e2d6614d20ed43eb36fe8/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /Users/raymond/.android/build-cache/60371d853c07f106e405ef2c7b1f36f311519a3b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/raymond/.android/build-cache/d03f4d0467a64b54818430bceb29c4e1b31c82f8/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/raymond/.android/build-cache/7e6f8424b8d9ee77a335fabf894a7524a284ff40/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/raymond/.android/build-cache/04e8cf8dc38917adc2c08933457e7c7bf6c90c7f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/raymond/.android/build-cache/e6a5d4b73791387c55555b4f76cdbb815527c6aa/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/raymond/.android/build-cache/5f1225a2eee78016de53f5cc273df2834db616f3/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/raymond/.android/build-cache/8fa2273dd31bb86d86602a5f73a0ba6c939bc2d1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /Users/raymond/.android/build-cache/310781c38c44ee96ebbfdd889652909f586a11c5/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /Users/raymond/.android/build-cache/fad0578f594e1978df4a1b8f02218bf6ade05b01/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.4.2] /Users/raymond/.android/build-cache/a74b9cdcf7a6916e8a9c85dcbfc38485cdef008b/output/AndroidManifest.xml:4:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/raymond/.android/build-cache/d03f4d0467a64b54818430bceb29c4e1b31c82f8/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raymond/Documents/workspace/doorbell/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/raymond/.android/build-cache/fdc37075a80fc3fa32198d5563cba57e2226d22a/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/raymond/.android/build-cache/fdc37075a80fc3fa32198d5563cba57e2226d22a/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/raymond/.android/build-cache/fdc37075a80fc3fa32198d5563cba57e2226d22a/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/raymond/.android/build-cache/fdc37075a80fc3fa32198d5563cba57e2226d22a/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.4.2] /Users/raymond/.android/build-cache/d4b2d7c025e012992ead93d2c58ce9baa9079c99/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.4.2] /Users/raymond/.android/build-cache/d4b2d7c025e012992ead93d2c58ce9baa9079c99/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.4.2] /Users/raymond/.android/build-cache/d4b2d7c025e012992ead93d2c58ce9baa9079c99/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.4.2] /Users/raymond/.android/build-cache/d4b2d7c025e012992ead93d2c58ce9baa9079c99/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.4.2] /Users/raymond/.android/build-cache/d4b2d7c025e012992ead93d2c58ce9baa9079c99/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.2] /Users/raymond/.android/build-cache/60371d853c07f106e405ef2c7b1f36f311519a3b/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /Users/raymond/.android/build-cache/60371d853c07f106e405ef2c7b1f36f311519a3b/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /Users/raymond/.android/build-cache/60371d853c07f106e405ef2c7b1f36f311519a3b/output/AndroidManifest.xml:20:20-65

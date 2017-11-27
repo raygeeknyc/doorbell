@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "989051282108",
+    "firebase_url": "https://iam-iot-hackathon.firebaseio.com",
+    "project_id": "iam-iot-hackathon",
+    "storage_bucket": "iam-iot-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989051282108:android:c4d54fe1f3023f3c",
+        "android_client_info": {
+          "package_name": "com.iothackathon17.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989051282108-s31astka5sudu2c0hi1lie0l8fosiof6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnexVDdYj-t3BUQvPnDbN5TsX4Gz4r5oA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+#Thu Nov 02 10:52:01 PDT 2017
+base.0=/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_720f0b5f3c6added7078528cdf9d1c124c9c8882
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9751df58fd83e2897f1b8bafe3a5f38e69678079/classes.dex
+base.1=/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9751df58fd83e2897f1b8bafe3a5f38e69678079
+file.0=/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_720f0b5f3c6added7078528cdf9d1c124c9c8882/classes.dex

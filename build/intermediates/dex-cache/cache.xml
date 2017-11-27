@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/4fcbd92fdea1609d1cace55dac769d8dee49e499/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97fb40924e83775c91374180494801cb022aa008">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6318e0dd235a88f92f4093c7f7a094133d8bc51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/5ffe3cc2224409e5015e49608baf87ca70136f2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68e6f5d32241bb1ae9b89d20999ad3f255f54ca4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/60371d853c07f106e405ef2c7b1f36f311519a3b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79eb04666140f58f5fcee75d7e716bfa1e971b4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_d7cabadf6f81e016941a274c43475a71daf1bb57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/e6a5d4b73791387c55555b4f76cdbb815527c6aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ceab7138bebc795624f46c078936e50b592fcaf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/7e6f8424b8d9ee77a335fabf894a7524a284ff40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dbc6a63f0dd398ebb6b2a1c4c3e7e0c2bed66b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/fdc37075a80fc3fa32198d5563cba57e2226d22a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6b601f043b6a28cdd932454a65e78f07fcd60e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/eb271cfddf0e2895da9fbc0080486f8ee4875238/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e1185bdde08224bf1275f6b4f9771df5e738e1b">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c8aeef180dec99572be178f833a2cc41636ae59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9751df58fd83e2897f1b8bafe3a5f38e69678079/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a23727be149224d74e802b9b7fec7a1bc27c30d9">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_720f0b5f3c6added7078528cdf9d1c124c9c8882/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/d4b2d7c025e012992ead93d2c58ce9baa9079c99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_791c5328ed6ec390f1a7d9cefbd9da2346d15a3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/d03f4d0467a64b54818430bceb29c4e1b31c82f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a45f1dafab2b8cfdfc249dfcf7fbd9c00ebb272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/e258ea125382db9a8a4db13684fddca4d62e5c8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f43a3fcfab267f0f2b25ee8136d9f712b40ce002/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/8fa2273dd31bb86d86602a5f73a0ba6c939bc2d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfa02d86f3e71188b2915babe91175499adcb444/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/04e8cf8dc38917adc2c08933457e7c7bf6c90c7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdcdc920c5b4fd837fa3b0daf51c3f2f9503c976/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/6fb239eecc0e9df1c40e2d6614d20ed43eb36fe8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_042775e28c039eb1da62d0bd4adaf772b39d6598/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raymond/.android/build-cache/5f1225a2eee78016de53f5cc273df2834db616f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_457bd1e7ca1019e56df6a118bf3c8a4dac9a5640/classes.dex" />
+    </item>
+
+</items>

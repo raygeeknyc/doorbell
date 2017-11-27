@@ -1,0 +1,9 @@
+#Internal package file, do not edit.
+#Thu Nov 02 10:51:30 PDT 2017
+1.file=/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+0.file=/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.base=/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/res/resources-debug.ap_
+0.base=/Users/raymond/Documents/workspace/doorbell/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+count=2
